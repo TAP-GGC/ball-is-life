@@ -13,12 +13,12 @@ Sphero bolt
     Daniel Redder
 
 # Installation/setup
--A Sphero
--A device (laptop/tablet/phone) with bluetooth connectivity  
--A obstacle course
+*A Sphero
+*A device (laptop/tablet/phone) with bluetooth connectivity  
+*A obstacle course
 # Usage
--Connect the Sphero robot with the device in order to move it. 
--Using the Sphero edu coding enviorment, build a program with block code.
--execute the program to see the Sphero move.
+*Connect the Sphero robot with the device in order to move it. 
+*Using the Sphero edu coding enviorment, build a program with block code.
+*execute the program to see the Sphero move.
 # Publications
 CCSC SE poster presentation October 25th Auburn, AL
