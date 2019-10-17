@@ -7,7 +7,7 @@ incorporating basketball as a familiar medium to provide context to programming.
 # Technology
 Sphero bolt
 # Team
-    Joel garcia 
+    Joel Garcia 
     Patrick Page
     Nikki Mehdikhani
     Daniel Redder
