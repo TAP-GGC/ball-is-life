@@ -5,7 +5,7 @@ We are using Sphero to teach programming fundamentals (for loops, functions, var
 incorporating basketball as a familiar medium to provide context to programming. The students will navagate the Sphero through the basketball-themed obstacle course only using programming scripts to move the Sphero. 
 
 # Technology
-Sphero bolt
+Sphero Sprk + 
 # Team
     Joel Garcia 
     Patrick Page
