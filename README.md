@@ -14,8 +14,9 @@ incorporating basketball as a familiar medium to provide context to programming.
     
     Daniel Redder
     
-    # Advisors
+    Advisors
     Dr. Anca Doloc Mihu
+    
     Dr. Robertson
     
 # Publications
