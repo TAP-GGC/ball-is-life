@@ -24,7 +24,7 @@ incorporating basketball as a familiar medium to provide context to programming.
 * Dr. Anca Doloc Mihu<br><br>
 
 ### Team Photo
-Team photo here
+<img src= "media/TeamPhoto.png" width="400" height="187"> <br>
 
 ## Publications
 1. Joel Garcia, Patrick Page, Nikki Mehdikhani, Daniel Redder, Anca Doloc Mihu, Cindy Robertson, Title, Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC:SE), October 25th, 2019, Auburn, AL  
