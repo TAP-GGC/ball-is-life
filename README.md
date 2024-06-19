@@ -48,10 +48,16 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 * A device (laptop/tablet/phone) with bluetooth connectivity  
 * An obstacle course
 ### Installing Sphero EDU  
-For instructions on how to install Sphero EDU please use the pdf file linked below. <br>
-![Installing Sphero Edu](Media/Installing%20Sphero%20Edu.pdf)
+For instructions on how to install Sphero EDU please use the pdf file and video linked below. <br>
+![Installing Sphero Edu](media/Installing%20Sphero%20Edu.pdf)
 
 [<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/InstallingSphero.PNG" width="400" height="200">](https://youtu.be/LAu1CeJtu_Q)
+
+### Creating a Program in Sphero Edu
+For instructions on how to create a program please use the pdf file and video linked below. <br>
+![Creating a Program in Sphero Edu](media/CreatingAProgramInSpheroEdu.pdf)
+
+[<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/CreatingProgramSpheroAccount.PNG" width="400" height="200">](https://youtu.be/SYQ1Sk9o07E)
 
 # Usage
 * Connect the Sphero robot via bluetooth with the device in order to move it. 
