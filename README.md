@@ -27,8 +27,8 @@ incorporating basketball as a familiar medium to provide context to programming.
 <img src= "media/TeamPhoto.png" width="400" height="187"> <br>
 
 ## Publications
-1. Joel Garcia, Patrick Page, Nikki Mehdikhani, Daniel Redder, Anca Doloc Mihu, Cindy Robertson, Title, Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC:SE), October 25th, 2019, Auburn, AL  
-2. Joel Garcia, Patrick Page, Nikki Mehdikhani, Daniel Redder, Anca Doloc Mihu, Cindy Robertson, CREATE Symposium, November 21, 2019, Georgia Gwinnett College
+1. Joel Garcia, Patrick Page, Nikki Mehdikhani, Daniel Redder, Anca Doloc Mihu, Cindy Robertson. Applying an Interactive Learning Style to Teach Programming Fundamentals Through a Familiar Activity, Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC:SE), October 25th, 2019, Auburn, AL  
+2. Joel Garcia, Patrick Page, Nikki Mehdikhani, Daniel Redder, Anca Doloc Mihu, Cindy Robertson. Applying an Interactive Learning Style to Teach Programming Fundamentals Through a Familiar Activity, CREATE Symposium, November 21, 2019, Georgia Gwinnett College
 
 ## Outreach Activites 
 1. Super Saturday Series(S3), November 9, 2019, GGC – middle and high school girls to promote IT and STEM career   
