@@ -25,6 +25,7 @@ incorporating basketball as a familiar medium to provide context to programming.
 
 ### Team Photo
 <img src= "media/TeamPhoto.png" width="400" height="187"> <br>
+(Left to Right: Joel Garcia, Patrick Page, Nikki Mehdikhani, Daniel Redder)<br>
 
 ## Publications
 1. Joel Garcia, Patrick Page, Nikki Mehdikhani, Daniel Redder, Anca Doloc Mihu, Cindy Robertson. Applying an Interactive Learning Style to Teach Programming Fundamentals Through a Familiar Activity, Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC:SE), October 25th, 2019, Auburn, AL  
