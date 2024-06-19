@@ -1,7 +1,7 @@
 # Using Sphero to teach programming fundementals 
 ## Description
 * Difficulty Level:
-* Target Audiience: 
+* Target Audience: 
 * Needed Materials: 
 * Sphero is a small robot ball that moves around by either remote control or code you feed it. 
 This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
