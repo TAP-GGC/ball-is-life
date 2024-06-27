@@ -11,7 +11,7 @@ incorporating basketball as a familiar medium to provide context to programming.
 This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
 By engaging in our workshops, students will get to experiment with Sphero.edu and block coding, which allows them to learn about fundamental programming skills like for loops, functions, variables, etc.
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
-* 
+
 
 <br>
 
