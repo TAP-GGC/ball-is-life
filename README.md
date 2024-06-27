@@ -41,12 +41,12 @@ By engaging in our workshops, students will get to experiment with Sphero.edu an
 
 ## Similar Projects
 ### Sphero Projects
-[Jedi's Sphero in a Maze](https://github.com/TAP-GGC/Jedi)
-[Dancing Sphero](https://github.com/TAP-GGC/DancingSphero)
+* [Jedi's Sphero in a Maze](https://github.com/TAP-GGC/Jedi)
+* [Dancing Sphero](https://github.com/TAP-GGC/DancingSphero)
 
 ### Cozmo Projects
-[Wanda](https://github.com/TAP-GGC/wanda)
-[TechGoldFish](https://github.com/TAP-GGC/TechGoldFish)
+* [Wanda](https://github.com/TAP-GGC/wanda)
+* [TechGoldFish](https://github.com/TAP-GGC/TechGoldFish)
 
 ## Technology
 Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
