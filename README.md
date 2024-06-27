@@ -3,9 +3,10 @@
 Our project uses Sphero to teach programming fundamentals (for loops, functions, variables, etc.) in a hands on way. We are 
 incorporating basketball as a familiar medium to provide context to programming. The students will navagate the Sphero through the basketball-themed obstacle course only using programming scripts to move the Sphero. TAP is the technology ambassadors program that allows students to learn leadership skills and help promote IT and STEM careers. [Link to TAP GGC](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/)
 ## Description
-* Difficulty Level:
-* Target Audience: 
-* Needed Materials: 
+* Difficulty Level: Medium
+* Target Audience: 6th Grade - College
+* Duration of workshop: 60 - 90 minutes
+* Needed Materials: A Sphero, Sphero Edu app, A device with bluetooth connection and the Sphero Edu app, obstacle course 
 * Sphero is a small robot ball that moves around by either remote control or code you feed it. 
 This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
 By engaging in our workshops, students will get to experiment with Sphero.edu and block coding, which allows them to learn about fundamental programming skills like for loops, functions, variables, etc.
