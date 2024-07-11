@@ -1,4 +1,4 @@
-# Using Sphero to teach programming fundementals 
+# Using Sphero to Teach Programming Fundamentals 
 ## About
 Our project uses Sphero to teach programming fundamentals (for loops, functions, variables, etc.) in a hands on way. We are 
 incorporating basketball as a familiar medium to provide context to programming. The students will navagate the Sphero through the basketball-themed obstacle course only using programming scripts to move the Sphero. TAP is the technology ambassadors program that allows students to learn leadership skills and help promote IT and STEM careers. [Link to TAP GGC](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/)
