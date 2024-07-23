@@ -6,6 +6,7 @@
 | 2 | Aquarium Fish Net | 6 in. x 8 in. |
 | 1 | Exacto Knife | ----- |
 | 1 | Pack of Flat Phillip Screws | ----- |
+| 2 | Sphero Ramp | ----- |
 | 15 | Sphero Bolt Robots | ----- |
 | 15 | Sphero Protractor | ------ |
 | ------ | Sphero EDU Desktop Application | ----- |
