@@ -38,6 +38,9 @@ By engaging in our workshops, students will get to experiment with Sphero.edu an
 3. Class Workshops – November 12th, November 13th, November 20th, GGC - to promote IT to non-IT college students
 
 ## Similar Projects
+* [Dancing Sphero](https://github.com/TAP-GGC/DancingSphero)
+* [Jedi](https://github.com/TAP-GGC/Jedi)
+
 
 ## Technology
 Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
