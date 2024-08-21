@@ -62,13 +62,13 @@ For instructions on how to install Sphero EDU please use the pdf file and video 
 For instructions on how to create a teacher sphero account please use the pdf file linked below. <br>
 ![Creating a Teacher Sphero Account](media/Creating%20a%20Teacher%20Sphero%20Account.pdf)
 
-Video [<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/CreatingTeacherSpheroAccount.PNG" width="400" height="200">](https://youtu.be/ej4uR7sUrAw)
+[<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/CreatingTeacherSpheroAccount.PNG" width="400" height="200">](https://youtu.be/ej4uR7sUrAw)
 
 ### Creating a Classroom and Adding Students in Sphero Edu
 For instructions on how to create a classroom and add students please use the pdf file linked below. <br>
 ![Creating a Classroom and Adding Students in Sphero Edu](media/CreatingaClassroomandAddingStudentsinSpheroEdu.pdf)
 
-Video  [<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/CreatingClassroomSpheroAccount.PNG" width="400" height="200">](https://youtu.be/3PSOkOrgY9g)
+[<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/CreatingClassroomSpheroAccount.PNG" width="400" height="200">](https://youtu.be/3PSOkOrgY9g)
 
 ### Creating a Program in Sphero Edu
 For instructions on how to create a program please use the pdf file and video linked below. <br>
