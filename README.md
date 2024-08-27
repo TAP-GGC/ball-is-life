@@ -54,25 +54,25 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 * An obstacle course
 ### Installing Sphero EDU  
 For instructions on how to install Sphero EDU please use the pdf file and video linked below. <br>
-![Installing Sphero Edu](media/Installing%20Sphero%20Edu.pdf)
+![Installing Sphero Edu](documents/Installing%20Sphero%20Edu.pdf)
 
 [<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/InstallingSphero.PNG" width="400" height="200">](https://youtu.be/LAu1CeJtu_Q)
 
 ### Creating a Teacher Sphero Account 
 For instructions on how to create a teacher sphero account please use the pdf file linked below. <br>
-![Creating a Teacher Sphero Account](media/Creating%20a%20Teacher%20Sphero%20Account.pdf)
+![Creating a Teacher Sphero Account](documents/Creating%20a%20Teacher%20Sphero%20Account.pdf)
 
 [<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/CreatingTeacherSpheroAccount.PNG" width="400" height="200">](https://youtu.be/ej4uR7sUrAw)
 
 ### Creating a Classroom and Adding Students in Sphero Edu
 For instructions on how to create a classroom and add students please use the pdf file linked below. <br>
-![Creating a Classroom and Adding Students in Sphero Edu](media/CreatingaClassroomandAddingStudentsinSpheroEdu.pdf)
+![Creating a Classroom and Adding Students in Sphero Edu](documents/CreatingaClassroomandAddingStudentsinSpheroEdu.pdf)
 
 [<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/CreatingClassroomSpheroAccount.PNG" width="400" height="200">](https://youtu.be/3PSOkOrgY9g)
 
 ### Creating a Program in Sphero Edu
 For instructions on how to create a program please use the pdf file and video linked below. <br>
-![Creating a Program in Sphero Edu](media/CreatingAProgramInSpheroEdu.pdf)
+![Creating a Program in Sphero Edu](documents/CreatingAProgramInSpheroEdu.pdf)
 
 [<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/CreatingProgramSpheroAccount.PNG" width="400" height="200">](https://youtu.be/SYQ1Sk9o07E)
 
