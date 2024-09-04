@@ -25,7 +25,7 @@ By engaging in our workshops, students will get to experiment with Sphero.edu an
 * Dr. Anca Doloc Mihu<br><br>
 
 ### Team Photo
-<img src= "archive/media/TeamPhoto.png" width="400" height="187"> <br>
+<img src= "media/TeamPhoto.png" width="400" height="187"> <br>
 (Left to Right: Joel Garcia, Patrick Page, Nikki Mehdikhani, Daniel Redder)<br>
 
 ## Publications
