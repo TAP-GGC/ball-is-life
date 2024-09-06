@@ -38,8 +38,8 @@ By engaging in our workshops, students will get to experiment with Sphero.edu an
 3. Class Workshops – November 12th, November 13th, November 20th, GGC - to promote IT to non-IT college students
 
 ## Similar Projects
-* [Dancing Sphero](https://github.com/TAP-GGC/DancingSphero) (sphero)
-* [Jedi](https://github.com/TAP-GGC/Jedi) (sphero)
+* [Dancing Sphero](https://github.com/TAP-GGC/DancingSphero) (Sphero)
+* [Jedi](https://github.com/TAP-GGC/Jedi) (Sphero)
 
 
 ## Technology
