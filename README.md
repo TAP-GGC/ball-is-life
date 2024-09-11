@@ -1,19 +1,19 @@
 # Using Sphero to Teach Programming Fundamentals 
+
 ## About
 Our project uses Sphero to teach programming fundamentals (for loops, functions, variables, etc.) in a hands on way. We are 
 incorporating basketball as a familiar medium to provide context to programming. The students will navagate the Sphero through the basketball-themed obstacle course only using programming scripts to move the Sphero. TAP is the technology ambassadors program that allows students to learn leadership skills and help promote IT and STEM careers.
+
 ## Description
 * Difficulty Level: Easy
 * Target Audience: Elementary - College
 * Needed Materials: A classroom set of Spheros, Sphero EDU app,Sphero EDU website teacher account, small cones, sphero ramp
 * Sphero is a small robot ball that moves around by either remote control or code you feed it. 
+
 This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
 By engaging in our workshops, students will get to experiment with Sphero.edu and block coding, which allows them to learn about fundamental programming skills like for loops, functions, variables, etc.
+
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
-
-<br>
-
-
 
 ## Team
 * Joel Garcia 
@@ -40,7 +40,6 @@ By engaging in our workshops, students will get to experiment with Sphero.edu an
 ## Similar Projects
 * [Dancing Sphero](https://github.com/TAP-GGC/DancingSphero) (Sphero)
 * [Jedi](https://github.com/TAP-GGC/Jedi) (Sphero)
-
 
 ## Technology
 Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
