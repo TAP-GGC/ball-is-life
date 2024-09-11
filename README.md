@@ -1,21 +1,19 @@
-# Using Sphero to teach programming fundementals 
+# Using Sphero to Teach Programming Fundamentals 
+
 ## About
 Our project uses Sphero to teach programming fundamentals (for loops, functions, variables, etc.) in a hands on way. We are 
-incorporating basketball as a familiar medium to provide context to programming. The students will navagate the Sphero through the basketball-themed obstacle course only using programming scripts to move the Sphero. TAP is the technology ambassadors program that allows students to learn leadership skills and help promote IT and STEM careers. [Link to TAP GGC](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)
+incorporating basketball as a familiar medium to provide context to programming. The students will navagate the Sphero through the basketball-themed obstacle course only using programming scripts to move the Sphero. TAP is the technology ambassadors program that allows students to learn leadership skills and help promote IT and STEM careers.
+
 ## Description
-* Difficulty Level: Medium
-* Target Audience: 6th Grade - College
-* Duration of workshop: 60 - 90 minutes
-* Needed Materials: A Sphero, Sphero Edu app, A device with bluetooth connection and the Sphero Edu app, obstacle course 
+* Difficulty Level: Easy
+* Target Audience: Elementary - College
+* Needed Materials: A classroom set of Spheros, Sphero EDU app,Sphero EDU website teacher account, small cones, sphero ramp
 * Sphero is a small robot ball that moves around by either remote control or code you feed it. 
+
 This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
 By engaging in our workshops, students will get to experiment with Sphero.edu and block coding, which allows them to learn about fundamental programming skills like for loops, functions, variables, etc.
+
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
-
-
-<br>
-
-
 
 ## Team
 * Joel Garcia 
@@ -40,13 +38,8 @@ By engaging in our workshops, students will get to experiment with Sphero.edu an
 3. Class Workshops – November 12th, November 13th, November 20th, GGC - to promote IT to non-IT college students
 
 ## Similar Projects
-### Sphero Projects
-* [Jedi's Sphero in a Maze](https://github.com/TAP-GGC/Jedi)
-* [Dancing Sphero](https://github.com/TAP-GGC/DancingSphero)
-
-### Cozmo Projects
-* [Wanda](https://github.com/TAP-GGC/wanda)
-* [TechGoldFish](https://github.com/TAP-GGC/TechGoldFish)
+* [Dancing Sphero](https://github.com/TAP-GGC/DancingSphero) (Sphero)
+* [Jedi](https://github.com/TAP-GGC/Jedi) (Sphero)
 
 ## Technology
 Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
@@ -60,13 +53,25 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 * An obstacle course
 ### Installing Sphero EDU  
 For instructions on how to install Sphero EDU please use the pdf file and video linked below. <br>
-![Installing Sphero Edu](media/Installing%20Sphero%20Edu.pdf)
+![Installing Sphero Edu](documents/Installing%20Sphero%20Edu.pdf)
 
 [<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/InstallingSphero.PNG" width="400" height="200">](https://youtu.be/LAu1CeJtu_Q)
 
+### Creating a Teacher Sphero Account 
+For instructions on how to create a teacher sphero account please use the pdf file linked below. <br>
+![Creating a Teacher Sphero Account](documents/Creating%20a%20Teacher%20Sphero%20Account.pdf)
+
+[<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/CreatingTeacherSpheroAccount.PNG" width="400" height="200">](https://youtu.be/ej4uR7sUrAw)
+
+### Creating a Classroom and Adding Students in Sphero Edu
+For instructions on how to create a classroom and add students please use the pdf file linked below. <br>
+![Creating a Classroom and Adding Students in Sphero Edu](documents/CreatingaClassroomandAddingStudentsinSpheroEdu.pdf)
+
+[<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/CreatingClassroomSpheroAccount.PNG" width="400" height="200">](https://youtu.be/3PSOkOrgY9g)
+
 ### Creating a Program in Sphero Edu
 For instructions on how to create a program please use the pdf file and video linked below. <br>
-![Creating a Program in Sphero Edu](media/CreatingAProgramInSpheroEdu.pdf)
+![Creating a Program in Sphero Edu](documents/CreatingAProgramInSpheroEdu.pdf)
 
 [<img src= "https://github.com/TAP-GGC/Jedi/blob/main/Media/CreatingProgramSpheroAccount.PNG" width="400" height="200">](https://youtu.be/SYQ1Sk9o07E)
 
